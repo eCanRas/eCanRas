@@ -32,5 +32,5 @@ Proactividad  |  Trabajo en equipo  |  Aprendizaje continuo  |  Responsabilidad 
 ### 📫 Contacto
 
 - ✉️ Email:  eduardojesuscantero04@gmail.com | eduardocantero@uma.es
-- 🔗 LinkedIn: [TuLinkedIn](https://www.linkedin.com/in/eduardocanterorascon/)  
-- 💼 GitHub: [github.com/tuusuario](https://github.com/eCanRas)
+- 🔗 LinkedIn: [eduardocanterorascon](https://www.linkedin.com/in/eduardocanterorascon/)  
+- 💼 GitHub: [github.com/eCanRas](https://github.com/eCanRas)

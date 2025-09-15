@@ -1,7 +1,7 @@
 ![Header](./header.jpeg)
 
-<h1>EDUARDO Cantero Rascón<\h1>
-<h2>💻 Ingeniero Informático<\h2>
+<h1>EDUARDO Cantero Rascón</h1>
+<h2>💻 Ingeniero Informático</h2>
 
 
 ### 🛠 Lenguajes de programación

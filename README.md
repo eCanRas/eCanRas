@@ -1,7 +1,5 @@
 ![Header](./header.jpeg)
 
-![Header](./header.jpeg)
-
 # EDUARDO Cantero Rascón
 ## 💻 Ingeniero Informático 
 

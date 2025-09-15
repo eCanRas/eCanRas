@@ -21,8 +21,7 @@
 
 
 ### 🧰 Herramientas y entornos
-Visual Studio Code  |  IntelliJ IDEA  |  PyCharm  |  SQL Developer  |  GitHub  |  Git  |  Docker  |  Oracle Cloud  
-Oracle VM VirtualBox  |  Wireshark  |  Nmap  |  Littlelm  |  Arduino  |  Raspberry Pi
+Visual Studio Code  |  IntelliJ IDEA  |  PyCharm  |  SQL Developer  |  GitHub  |  Git  |  Docker  |  Oracle Cloud  |  Oracle VM VirtualBox  |  Wireshark  |  Nmap  |  Littlelm  |  Arduino  |  Raspberry Pi
 
 ### 🌐 Idiomas
 Español: Nativo   |   Inglés: B1

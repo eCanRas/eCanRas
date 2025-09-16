@@ -1,4 +1,4 @@
-![Header](./head.jpg)
+![Header](./head.png)
 
 <h1>EDUARDO Cantero Rascón</h1>
 <h2>💻 Ingeniero Informático</h2>

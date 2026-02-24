@@ -38,14 +38,14 @@ I am a passionate **Computer Science student** in my final semester at the **Uni
   <img src="https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white" />
 </p>
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eCanRas&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eCanRas&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=eCanRas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=eCanRas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eCanRas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-contributor-stats.vercel.app/api?username=eCanRas&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 ---
 
 ## 🌐 Languages & Soft Skills
@@ -56,3 +56,4 @@ I am a passionate **Computer Science student** in my final semester at the **Uni
 <p align="left">
   <a href="mailto:eduardojesuscantero04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/eduardocanterorascon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>

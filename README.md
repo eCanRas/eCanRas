@@ -13,7 +13,7 @@ I am a recent graduate in **Computer Engineering** and currently pursuing a **Ma
 
 ### Experience & Background
 - **L1 Cybersecurity Analyst @ Indra:** Gained deep insights into security and compliance challenges in large-scale enterprise environments.
-- - **Electronics & Software Engineer @ [MART Racing Team](https://www.linkedin.com/company/martfs/posts/):** Developed custom software for the embedded systems of high-performance competition vehicles. 🏎️
+- **Electronics & Software Engineer @ [MART Racing Team](https://www.linkedin.com/company/martfs/posts/):** Developed custom software for the embedded systems of high-performance competition vehicles. 🏎️
 - **Hands-on Developer:** Passionate about critical software development, system administration (managing my own test server), and robust security implementations. 
 - **Hackathon Winner:** Recently recognized and awarded at a Hackathon thanks to the strength and reliability of our security measures. 🏆
 

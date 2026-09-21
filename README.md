@@ -4,11 +4,20 @@
 
 ## 🚀 About Me
 
-I am a passionate **Computer Science student** in my final semester at the **University of Málaga**. I balance my academic life with cutting-edge cybersecurity research and high-performance electronics. I thrive on tackling complex projects and I am constantly evolving as a developer.
+I am a recent graduate in **Computer Engineering** and currently pursuing a **Master's degree in Cybersecurity** at the **University of Málaga**. I balance my academic background with cutting-edge cybersecurity research and high-performance engineering. I thrive on tackling complex projects and am constantly evolving as a developer.
 
-- 🎓 **Senior CS Student** @ University of Málaga
+- 🎓 **Computer Engineering Graduate & Cybersecurity Master's Student** @ University of Málaga
 - 🛡️ **Research Intern** @ [NICS Lab](https://www.nics.uma.es/)
-- 🏎️ **Junior Electronics & Software Engineer** @ [MART Racing Team](https://www.linkedin.com/company/martfs/posts/)
+
+---
+
+### Experience & Background
+- **L1 Cybersecurity Analyst @ Indra:** Gained deep insights into security and compliance challenges in large-scale enterprise environments.
+- - **Electronics & Software Engineer @ [MART Racing Team](https://www.linkedin.com/company/martfs/posts/):** Developed custom software for the embedded systems of high-performance competition vehicles. 🏎️
+- **Hands-on Developer:** Passionate about critical software development, system administration (managing my own test server), and robust security implementations. 
+- **Hackathon Winner:** Recently recognized and awarded at a Hackathon thanks to the strength and reliability of our security measures. 🏆
+
+**My current goal is clear:** to bring value to demanding projects, work collaboratively, and build robust and secure software. I am ready to take on new professional challenges in environments that seek commitment, rigor, and technical curiosity. Shall we connect? 🤝
 
 ---
 
